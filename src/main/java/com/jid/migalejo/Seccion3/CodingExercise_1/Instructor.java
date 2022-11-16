@@ -1,5 +1,6 @@
 package com.jid.migalejo.Seccion3.CodingExercise_1;
 
+import com.jid.migalejo.Seccion3.CodingExercise_1.Book;
 
 public class Instructor {
     public long id;
