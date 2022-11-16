@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a5435d6-b944-4ef0-bc3c-f5a52afc744e" name="Changes" comment="Section 1-3 completed" />
+    <list default="true" id="6a5435d6-b944-4ef0-bc3c-f5a52afc744e" name="Changes" comment="master set up for VCS" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -34,12 +34,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/AlecoXD/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/Java-In-Depth/PlayGround/HelloWorld/JavaInDepth"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.jid.migalejo.Seccion3.Tarea3" />
@@ -150,7 +151,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668623626085</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="main set up for VCS">
+      <created>1668625155963</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668625155963</updated>
+    </task>
+    <task id="LOCAL-00003" summary="master set up for VCS">
+      <created>1668625246746</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668625246746</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -166,6 +181,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Section 1-3 completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Section 1-3 completed" />
+    <MESSAGE value="main set up for VCS" />
+    <MESSAGE value="master set up for VCS" />
+    <option name="LAST_COMMIT_MESSAGE" value="master set up for VCS" />
   </component>
 </project>
