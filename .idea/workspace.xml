@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a5435d6-b944-4ef0-bc3c-f5a52afc744e" name="Changes" comment="master set up for VCS" />
+    <list default="true" id="6a5435d6-b944-4ef0-bc3c-f5a52afc744e" name="Changes" comment="develope set up for VCS">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jid/migalejo/Seccion3/CodingExercise_2/CarPriceEstimator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java-In-Depth.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jid/migalejo/Seccion3/CodingExercise_1/Instructor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jid/migalejo/Seccion3/CodingExercise_1/Instructor.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +27,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -38,7 +45,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/AlecoXD/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/Java-In-Depth/PlayGround/HelloWorld/JavaInDepth"
+    "last_opened_file_path": "/Users/AlecoXD/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/Studies/Java-In-Depth/PlayGround/HelloWorld/JavaInDepth"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -47,7 +54,20 @@
       <recent name="com.jid.migalejo.Seccion3.Tarea2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MoneyTransferService">
+  <component name="RunManager" selected="Application.CarPriceEstimator">
+    <configuration name="CarPriceEstimator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jid.migalejo.Seccion3.CodingExercise_2.CarPriceEstimator" />
+      <module name="Java-In-Depth" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jid.migalejo.Seccion3.CodingExercise_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CurrencyConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jid.migalejo.Seccion3.Tarea2.CurrencyConverter" />
       <module name="Java-In-Depth" />
@@ -67,19 +87,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.jid.migalejo.Seccion3.CodingExercise_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jid.migalejo.Main" />
-      <module name="Java-In-Depth" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jid.migalejo.Seccion3.Tarea1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,21 +120,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="Java-In-Depth" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="Java-In-Depth" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CarPriceEstimator" />
         <item itemvalue="Application.MoneyTransferService" />
         <item itemvalue="Application.Instructor" />
         <item itemvalue="Application.CurrencyConverter" />
@@ -165,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668625246746</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="develope set up for VCS">
+      <created>1668625329197</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668625329197</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -183,6 +185,7 @@
     <MESSAGE value="Section 1-3 completed" />
     <MESSAGE value="main set up for VCS" />
     <MESSAGE value="master set up for VCS" />
-    <option name="LAST_COMMIT_MESSAGE" value="master set up for VCS" />
+    <MESSAGE value="develope set up for VCS" />
+    <option name="LAST_COMMIT_MESSAGE" value="develope set up for VCS" />
   </component>
 </project>
